@@ -15,7 +15,6 @@
         "slide-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Screenshot2025-06-02at2.07.50.png",
             "image_overlay_opacity": 0,
             "heading": "",
             "heading_size": "h1",
@@ -49,13 +48,13 @@
       "type": "featured-collection",
       "settings": {
         "collection": "all",
-        "products_to_show": 24,
+        "products_to_show": 10,
         "title": "Featured collection",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
         "description_style": "subtitle",
-        "columns_desktop": 6,
+        "columns_desktop": 3,
         "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
