@@ -48,9 +48,9 @@
     "all-products": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "定期購入デモ",
         "products_to_show": 9,
-        "title": "Featured collection",
+        "title": "定期購入デモ",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
