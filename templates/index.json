@@ -45,6 +45,37 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_zTdxmC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tJykYF": {
+          "type": "heading",
+          "settings": {
+            "heading": "デモ商品の注文方法",
+            "heading_size": "h2"
+          }
+        },
+        "text_GQxK4N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>このサイトでは、定期購入のデモ注文を行なっていただけます。</p><p>下記のクレジットカードでご注文いただけます。</p><p>※商品は実際には発送されませんので、ご安心ください。</p><p>カード番号: 4242 4242 4242 4242</p><p>有効期限: 将来の日付</p><p>セキュリティコード: ３桁の数字</p><p>カードの名義人: 2文字以上</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tJykYF",
+        "text_GQxK4N"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "all-products": {
       "type": "featured-collection",
       "settings": {
@@ -140,6 +171,7 @@
   },
   "order": [
     "hero-slideshow",
+    "rich_text_zTdxmC",
     "all-products",
     "collection-list",
     "image-banner"
