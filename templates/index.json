@@ -58,7 +58,7 @@
         "text_GQxK4N": {
           "type": "text",
           "settings": {
-            "text": "<p>このサイトでは、定期購入のデモ注文を行なっていただけます。</p><p>下記のクレジットカードでご注文いただけます。<br/>※商品は実際には発送されませんので、ご安心ください。</p><p>カード番号: 4242 4242 4242 4242<br/>有効期限: 将来の日付<br/>セキュリティコード: ３桁の数字<br/>カードの名義人: 2文字以上</p>"
+            "text": "<p>このサイトでは、定期購入のデモ注文を行なっていただけます。</p><p>下記のクレジットカードでご注文いただけます。<br/>※商品は実際には発送されませんので、ご安心ください。</p><p><strong>カード番号</strong>: 4242 4242 4242 4242<br/><strong>有効期限</strong>: 将来の日付<br/><strong>セキュリティコード</strong>: ３桁の数字<br/><strong>カードの名義人</strong>: 2文字以上</p>"
           }
         }
       },
@@ -68,8 +68,8 @@
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
