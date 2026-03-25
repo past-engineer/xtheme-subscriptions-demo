@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="{{ 'component-mega-menu.css' | asset_url }}" media="print" onload="this.media='all'">
 {%- endif -%}
 
+{% assign logo_title = '定期購入デモ' %}
 
 <style>
   header-drawer {
@@ -158,6 +159,7 @@
                   sizes: sizes,
                   preload: true
                 }}
+                <span class="header__heading-logo-title">{{ logo_title }}</span>
               </div>
             {%- else -%}
               <span class="h2">{{ shop.name }}</span>
@@ -198,6 +200,7 @@
                   sizes: sizes,
                   preload: true
                 }}
+                <span class="header__heading-logo-title">{{ logo_title }}</span>
               </div>
             {%- else -%}
               <span class="h2">{{ shop.name }}</span>
