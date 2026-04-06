@@ -12,7 +12,7 @@
     "1773205311cf1c5603": {
       "type": "apps",
       "blocks": {
-        "xtheme_customer_subscriptions_NCPqRa": {
+        "xtheme_customer_subscriptions_rpCg3z": {
           "type": "shopify://apps/xtheme/blocks/customer-subscriptions/019cb7b6-ed95-7458-849c-e7cd77ccde75",
           "settings": {
             "show_direct_list": false,
@@ -40,9 +40,9 @@
             "button_margin_bottom_mobile": 16,
             "back_button_text": "アカウントに戻る",
             "back_button_background_color": "#ffffff",
-            "back_button_text_color": "#000000",
+            "back_button_text_color": "#2D2D2D",
             "back_button_hover_background_color": "#f5f5f5",
-            "back_button_border_color": "#000000",
+            "back_button_border_color": "#2D2D2D",
             "back_button_hover_border_color": "#000000",
             "back_button_max_width": 100,
             "back_button_border_width": 1,
@@ -73,7 +73,7 @@
         }
       },
       "block_order": [
-        "xtheme_customer_subscriptions_NCPqRa"
+        "xtheme_customer_subscriptions_rpCg3z"
       ],
       "settings": {
         "include_margins": true
