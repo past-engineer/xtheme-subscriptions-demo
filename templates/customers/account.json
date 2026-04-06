@@ -61,8 +61,8 @@
             "background_transparent": true,
             "background_color": "#ffffff",
             "container_background_transparent": true,
-            "container_background": "#F8F9FA",
-            "border_color": "#DDDDDD",
+            "container_background": "#f8f9fa",
+            "border_color": "#dddddd",
             "border_radius": 8,
             "container_border_radius": 8,
             "padding": 20,
@@ -73,6 +73,7 @@
         },
         "xtheme_customer_subscriptions_xiTjtH": {
           "type": "shopify://apps/xtheme/blocks/customer-subscriptions/019cb7b6-ed95-7458-849c-e7cd77ccde75",
+          "disabled": true,
           "settings": {
             "show_direct_list": true,
             "use_tag_insertion": false,
