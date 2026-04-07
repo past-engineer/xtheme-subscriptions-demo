@@ -15,8 +15,8 @@
         "xtheme_customer_subscriptions_QdADJd": {
           "type": "shopify://apps/xtheme/blocks/customer-subscriptions/019cb7b6-ed95-7458-849c-e7cd77ccde75",
           "settings": {
-            "show_direct_list": true,
-            "use_tag_insertion": false,
+            "show_direct_list": false,
+            "use_tag_insertion": true,
             "button_text": "定期購買一覧を見る",
             "button_alignment": "left",
             "button_full_width": false,
