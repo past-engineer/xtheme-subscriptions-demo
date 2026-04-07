@@ -146,7 +146,7 @@
     "blocks": {
       "18290285309796860522": {
         "type": "shopify://apps/xtheme/blocks/subscription-list-embed/019cb7b6-ed95-7458-849c-e7cd77ccde75",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "default_design": "a"
         }
