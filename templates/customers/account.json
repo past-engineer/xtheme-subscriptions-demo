@@ -67,8 +67,8 @@
             "container_border_radius": 8,
             "padding": 0,
             "padding_mobile": 16,
-            "margin_top": 20,
-            "margin_bottom": 20
+            "margin_top": 32,
+            "margin_bottom": 32
           }
         }
       },
