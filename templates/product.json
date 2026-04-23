@@ -34,6 +34,7 @@
         },
         "product-inventory": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "text_style": "body",
             "inventory_threshold": 10,
@@ -135,6 +136,7 @@
         "collapsible-row-1",
         "collapsible-row-2"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "Collapsible content",
